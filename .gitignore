@@ -1,2 +1,6 @@
 /phpunit.xml
 /vendor/
+/.buildpath
+/.project
+/composer.lock
+/.settings/
